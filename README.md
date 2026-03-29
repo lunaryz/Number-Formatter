@@ -26,6 +26,7 @@ func _ready():
     print(form.format(number)) # 1,000,000
 ```
 
+
 ## 🇬🇧 English
 
 ## Description
